@@ -1,0 +1,73 @@
+ 
+Md Jawwad N (3/22/2024, 4:13:53 PM): Welcome to Bluehost India Chat 
+Md Jawwad N (3/22/2024, 4:14:11 PM): Hello, I’m Jawwad. Welcome to live Chat. I'm going to assist you today. 
+Apexeducation (3/22/2024, 4:14:18 PM): hello 
+Md Jawwad N (3/22/2024, 4:14:30 PM): Before we begin, could you please provide the token number sent to your registered email address to verify ownership of the account?\n\nOR\n\nYou can also authenticate your account by providing the last 4 characters of your main password 
+Apexeducation (3/22/2024, 4:14:37 PM): @123 
+Md Jawwad N (3/22/2024, 4:14:45 PM): Perfect thank you for Authenticating the Account!!\nHow may I help you today? 
+Apexeducation (3/22/2024, 4:15:17 PM): i just want to know about https://lodhibuilder.com/ 
+Apexeducation (3/22/2024, 4:15:32 PM): this is domain that assign in my bluehost server 
+Md Jawwad N (3/22/2024, 4:16:10 PM): Sure please ask 
+Apexeducation (3/22/2024, 4:16:57 PM): that i assign using eppcode 
+Apexeducation (3/22/2024, 4:17:23 PM): its means im the owner of  this domain 
+Md Jawwad N (3/22/2024, 4:17:25 PM): YEs this is assigned in your Bluehost server 
+Apexeducation (3/22/2024, 4:17:42 PM): https://lodhibuilder.com/ 
+Apexeducation (3/22/2024, 4:18:16 PM): that know i owner rigth because of that purchased different domain' 
+Md Jawwad N (3/22/2024, 4:18:59 PM): This domain is not purchased from us it is just assigned here 
+Md Jawwad N (3/22/2024, 4:19:30 PM): For Registrant Contact\nyou can use this link to get all details on domain \nhttps://www.whois.com/whois/lodhibuilder.com 
+Apexeducation (3/22/2024, 4:21:08 PM): ok can i upload my new file in domain that will we live 
+Md Jawwad N (3/22/2024, 4:22:18 PM): Yes you can upload the files in public_HTML\nin below folder \nlodhibuilder 
+Apexeducation (3/22/2024, 4:23:38 PM): it means if i want  to change in website in future using bluehost cpannel' 
+Md Jawwad N (3/22/2024, 4:23:43 PM): Yes you can 
+Md Jawwad N (3/22/2024, 4:24:52 PM): is there anything else i can help you with ? 
+Apexeducation (3/22/2024, 4:26:07 PM): yes 
+Apexeducation (3/22/2024, 4:26:33 PM): can i delete website file from older cpannel and upload in this cpannel 
+Apexeducation (3/22/2024, 4:27:06 PM): ??' 
+Md Jawwad N (3/22/2024, 4:27:12 PM): First do this changes 
+Md Jawwad N (3/22/2024, 4:27:39 PM): type - A \nhost - @ \nvalue -162.214.81.12 \n ttl - auto 
+Md Jawwad N (3/22/2024, 4:28:14 PM): In your domain section for \nlodhibuilder.com 
+Md Jawwad N (3/22/2024, 4:28:39 PM): And it will take 24 to 48 hours to update 
+Md Jawwad N (3/22/2024, 4:29:01 PM): and with this please update ns as well from where you have purchased the domain / from where you go the EPP code 
+Md Jawwad N (3/22/2024, 4:29:24 PM): There change the nameservers to 
+Md Jawwad N (3/22/2024, 4:29:43 PM): ns1.bluehost.in\nns2.bluehost.in 
+Md Jawwad N (3/22/2024, 4:29:50 PM): Once both of this is done 
+Md Jawwad N (3/22/2024, 4:29:58 PM): You can move your website files 
+Apexeducation (3/22/2024, 4:30:31 PM): but i have not access of there domain pannel 
+Md Jawwad N (3/22/2024, 4:31:18 PM): your domain is still hosted on old pannel but it is assigned here 
+Apexeducation (3/22/2024, 4:31:25 PM): thats why i connect that domain usingeppcode 
+Md Jawwad N (3/22/2024, 4:31:40 PM): for you to host your website you need to change the dns records 
+Apexeducation (3/22/2024, 4:32:38 PM): type - A \nhost - @ \nvalue -162.214.81.12 \n ttl - auto 
+Apexeducation (3/22/2024, 4:32:57 PM): that recoed will be add 
+Apexeducation (3/22/2024, 4:33:19 PM): now my work done by my end? 
+Md Jawwad N (3/22/2024, 4:33:26 PM): Add this as well 
+Md Jawwad N (3/22/2024, 4:33:41 PM): and then move the website files from there to bluehost 
+Apexeducation (3/22/2024, 4:33:42 PM): because i am not able change nameserver 
+Md Jawwad N (3/22/2024, 4:34:03 PM): You can connect with the support of the hosting provider  company 
+Md Jawwad N (3/22/2024, 4:34:14 PM): They will do it for you 
+Apexeducation (3/22/2024, 4:35:08 PM): how much time it will take 
+Md Jawwad N (3/22/2024, 4:35:17 PM): it will take 24 to 48 hours to update 
+Md Jawwad N (3/22/2024, 4:35:29 PM): propagation time is fix it cannot be changed 
+Apexeducation (3/22/2024, 4:35:34 PM): and what about the old webpage 
+Md Jawwad N (3/22/2024, 4:36:14 PM): once you change the records the site will be down till then you can move your website files and delete the old hosting files 
+Md Jawwad N (3/22/2024, 4:37:23 PM): Is there anything else i can help you with? 
+Apexeducation (3/22/2024, 4:38:21 PM): what will we happen when site is down 
+Md Jawwad N (3/22/2024, 4:38:41 PM): Once the propagation is completed the site will be up again 
+Apexeducation (3/22/2024, 4:39:42 PM): what about our visitors 
+Md Jawwad N (3/22/2024, 4:40:02 PM): There will be down time once the website goes down due to propagation 
+Md Jawwad N (3/22/2024, 4:42:02 PM): Is there anything else i can help you with? 
+Apexeducation (3/22/2024, 4:42:45 PM): it will happen only one time 
+Apexeducation (3/22/2024, 4:43:12 PM): more than one time 
+Md Jawwad N (3/22/2024, 4:43:14 PM): yes its a one time thing once it is done your site will be hosted with bluehost 
+Md Jawwad N (3/22/2024, 4:45:41 PM): Are we still connected 
+Apexeducation (3/22/2024, 4:47:33 PM): ok we revised things one again \nfirst we go to domain section in lodhibuilder add DNS record that you provide type - A \nhost - @ \nvalue -162.214.81.12 \n ttl - auto\n\nand after adding we upload our website file in cpannel now \nnothing do for my site right?? 
+Md Jawwad N (3/22/2024, 4:48:14 PM): perfect 
+Apexeducation (3/22/2024, 4:48:21 PM): also deleting that all file old cannel 
+Md Jawwad N (3/22/2024, 4:48:48 PM): Perfect 
+Md Jawwad N (3/22/2024, 4:48:57 PM): I hope i was able to help you 
+Md Jawwad N (3/22/2024, 4:49:45 PM): Is there anything else i can help you with? 
+Apexeducation (3/22/2024, 4:50:24 PM): can you please define the process of transferring the domain 
+Md Jawwad N (3/22/2024, 4:51:12 PM): If you want to transfer the domain to bluehost you will need to pay approx. 999+gst and it will take approx. 5 to 10 working days 
+Apexeducation (3/22/2024, 4:52:13 PM): ok thankouy 
+Md Jawwad N (3/22/2024, 4:52:19 PM): Thank you for choosing our service! We value your feedback and strive to provide the best chat experience possible.\n \nIf you believe we've met or exceeded your expectations, we kindly ask you to rate us a 5. \n Please click on \"X\" on the top right >> click on \"GIVE FEEDBACK\" option\n \nYour satisfaction is our top priority, and your feedback helps us improve. Thank you for your support!
+
+
